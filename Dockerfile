@@ -1,4 +1,4 @@
-FROM node:18.15.0
+FROM node:18.20.7
 
 RUN node --version
 RUN npm --version
